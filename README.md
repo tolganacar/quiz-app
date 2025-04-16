@@ -1,4 +1,7 @@
 # Quiz App
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-16 at 17 39 14](https://github.com/user-attachments/assets/8dea9826-f336-40ed-9934-43498e0b6d64)
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-16 at 17 39 31](https://github.com/user-attachments/assets/ff356a96-570b-4abd-b479-4bdebb2fa950)
+![Simulator Screenshot - iPhone 16 Pro - 2025-04-16 at 17 40 54](https://github.com/user-attachments/assets/d4e6e006-9c8f-4076-9dcd-32f05bc5ebf8)
 
 A modern iOS quiz application that challenges users with knowledge questions across multiple categories and difficulty levels.
 
